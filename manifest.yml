@@ -3,6 +3,6 @@
 # We have created a delivery pipeline
 applications:
 # We have reserved a name/route for your app
-- name: helion-hello-node2
-  host: helion-hello-node2
-  domain: murali.domain.com.muralikoripally.stacktest.io
+- name: helion-hello-node
+  host: helion-hello-node
+  domain: hcf.ravikumar-venkatesan.stacktest.io
