@@ -1,8 +1,8 @@
 ---
 # We have created a temporary app in the gallery
-# We have created a delivery pipeline
+# We have created a delivery pipeline 
 applications:
-# We have reserved a name/route for your app
+# We have reserved a name/route for your app helion-hello-node
 - name: helion-hello-node
   host: helion-hello-node
   domain: hcf.ravikumar-venkatesan.stacktest.io
